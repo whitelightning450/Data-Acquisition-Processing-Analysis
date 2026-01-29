@@ -1,4 +1,4 @@
-name: 
+name: 310HyRiver_env
 channels:
   - conda-forge
 dependencies:
@@ -326,4 +326,3 @@ dependencies:
   - zlib-ng=2.3.2
   - zstd=1.5.7
 
-prefix: "/uufs/chpc.utah.edu/common/home/u1154915/.conda/envs/310HyRiver_env"

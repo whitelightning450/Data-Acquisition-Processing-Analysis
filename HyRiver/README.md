@@ -77,7 +77,7 @@ This sets us up in a `base` mamba environment. We can now proceed with either in
 
 Install provided environment:
 
-    mamba env create -f 310HyRiver_env.yml
+    mamba env create -n 310HyRiver_env -f 310HyRiver_env.yml
     mamba activate 310HyRiver_env
 
 Advanced. If you are making a fresh conda environment. Start with the following steps and enter `y` when prompted:
