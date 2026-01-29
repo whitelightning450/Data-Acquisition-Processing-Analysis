@@ -110,3 +110,12 @@ In most cases:
 
     conda install ipykernel
     python -m ipykernel install --user --name=310HyRiver_env
+
+### Additional terminal inputs
+The HyRiver package makes use of interactive mapping tools that can challenge UU firewall **trust protocols.** We can approve/trust the .ipynb module by going into the file directory and telling your HPC to trust these files. If you are in this directory:
+
+    mamba install nbformat
+    jupyter trust *.ipynb
+
+This should set you up for success!
+
