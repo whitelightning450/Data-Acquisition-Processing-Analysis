@@ -5,7 +5,7 @@ Please fork this repo to your GitHub account.
 Next, identify a folder location where you would like to work in a development environment.
 Using the command prompt, change your working directory to this folder and git clone https://github.com/USERID/Intro-to-Snow-Observations-Modeling-Analysis
 
-    git clone https://github.com/Intro-to-Snow-Observations-Modeling-Analysis
+    git clone https://github.com/UUHydroInformatics/Data-Acquisition-Processing-Analysis
 
 
 ## Virtual Environment
